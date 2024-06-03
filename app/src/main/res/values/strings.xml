@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Constraint</string>
+    <string name="sample_data">Train to Busan is a South Korean zombie horror-thriller released in 2016.
+        The film follows a group of terrified passengers fighting their way through a countrywide viral outbreak
+        while trapped on a blood-drenched bullet train ride to Busan, a southern resort city that has managed to hold off the zombie hordes.
+        It became a massive worldwide hit, breaking box office records in South Korea and receiving overwhelming critical praise
+    </string>
+</resources>
